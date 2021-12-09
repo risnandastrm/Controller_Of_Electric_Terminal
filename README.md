@@ -6,8 +6,8 @@ Activation (ON/OFF) of each electric terminal controlled via smartphone. Switch 
 
 Electronic schematic and PCB layout can be found in following images.
 
-![Electronic-schematic](electronic schematic.JPG)
+![Electronic-schematic](https://drive.google.com/file/d/1PCkeYsqCC-HUsT-B1u9-BbBrKvK5wkdA/view?usp=sharing)
 
-![Electronic-schematic](electronic schematic 2.JPG)
+![Electronic-schematic](https://drive.google.com/file/d/1PfwXVdNCrQVjVwOyhIiOl0EkwUGZulEZ/view?usp=sharing)
 
-![PCB-layout](pcb fullprint layout.JPG)
+![PCB-layout](https://drive.google.com/file/d/1NyS-FUDH357iJQ79_XFifh8g4yYsVCMC/view?usp=sharing)
